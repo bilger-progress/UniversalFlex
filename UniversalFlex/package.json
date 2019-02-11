@@ -1,0 +1,27 @@
+{
+  "name": "universalflex",
+  "version": "1.0.0",
+  "description": "Universal Repository for Kinvey Flex cases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilger-progress/UniversalFlex.git"
+  },
+  "keywords": [
+    "Flex",
+    "Kinvey"
+  ],
+  "author": "Bilger Yahov @ Kinvey by Progress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilger-progress/UniversalFlex/issues"
+  },
+  "homepage": "https://github.com/bilger-progress/UniversalFlex#readme",
+  "dependencies": {
+    "virgil-crypto": "3.2.1",
+    "kinvey-flex-sdk": "3.2.1"
+  }
+}
